@@ -14,15 +14,16 @@
 :eclipseProject
 :getVersionJson
 :extractNatives SKIPPED
-:extractUserdev UP-TO-DATE
+:extractUserdev
 :getAssetIndex UP-TO-DATE
 :getAssets
-Current status: 903/1049   86%
-:makeStart
+Current status: 475/1049   45%
+Current status: 926/1049   88%
+:makeStart SKIPPED
 :makeEclipseCleanRunClient
 :makeEclipseCleanRunServer
 :eclipse
 
 BUILD SUCCESSFUL
 
-Total time: 11.596 secs
+Total time: 16.28 secs
